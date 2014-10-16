@@ -3,7 +3,7 @@
 class Testpack {
  
   public static function greeting(){
-    return "What up testtt";
+    return "Test package";
   }
  
 }
